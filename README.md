@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yelena
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript, ReactJS, Node.js, Redux
-- 💞️ I’m looking to collaborate on intresting projects
+- 🌱 I’m currently learning ReactJS, Node.js, Redux
+- 💞️ I’m looking forward to collaborate on intresting projects
 - 📫 My e-mail: yelena.dzhaparova@gmail.com
 
 <!---
