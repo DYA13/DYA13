@@ -7,7 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dya13&label=Profile%20views&color=0e75b6&style=flat" alt="dya13" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/DYA13/portfolio.git](https://github.com/DYA13/portfolio.git)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dya13" alt="dya13" /></a> </p>
+
+- 👨‍💻 Some of my projects are available at [https://github.com/DYA13/portfolio.git](https://github.com/DYA13/portfolio.git)
 
 - 📫 How to reach me **yelena.dzhaparova@gmail.com**
 
