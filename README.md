@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/DYA13/portfolio.git](https://github.com/DYA13/portfolio.git)
 
--Codewars profile [Codewars profile](https://www.codewars.com/users/Yelena13)
+- 💻 [Codewars profile](https://www.codewars.com/users/Yelena13)
 
 - 📫 How to reach me **yelena.dzhaparova@gmail.com**
 
