@@ -14,15 +14,24 @@
 
 ### 🚀 About Me
 
-💡 Always learning — every day is a new opportunity to grow.
-🌍 I live in Italy and speak 🇷🇺 Russian, 🇮🇹 Italian, 🇬🇧 English.
-🔥 Never stop exploring, building, and becoming better than yesterday.
-🎯 I believe that consistency beats perfection — one line of code at a time.
-💫 Passionate about clean code, beautiful UIs, and solving real-world problems with tech. 
+- 💡 Always learning — every day is a new opportunity to grow.
+- 🌍 I live in Italy and speak 🇷🇺 Russian, 🇮🇹 Italian, 🇬🇧 English.
+- 🔥 Never stop exploring, building, and becoming better than yesterday.
+- 🎯 I believe that consistency beats perfection — one line of code at a time.
+- 🦄 Passionate about clean code, beautiful UIs, and solving real-world problems with tech.
+- 🐞 Debugging is like detective work — and I secretly love it.
+
+---
+
+![GitHub followers](https://img.shields.io/github/followers/DYA13?label=Follow&style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/DYA13/DYA13?color=blue)
+![GitHub Repo stars](https://img.shields.io/github/stars/DYA13/DYA13?style=social)
 
 ---
 
 ### 📬 Reach Me
+
+For more details about my education, certifications, and professional experience:
 
 - 🔗 LinkedIn: [Yelena Japarova](https://www.linkedin.com/in/yelena-japarova-99a75274/)
 
@@ -36,6 +45,12 @@
 | 🚀 [Music Backend](https://github.com/Code-the-Dream-School/dd-prac-team4-back) | Node.js/Express REST API powering music data, authentication, and playlist logic |
 
 ---
+| Project | Preview |
+|--------|---------|
+| 🎧 [Music App Frontend](https://github.com/Code-the-Dream-School/dd-prac-team4-front) | ![Music App Front](https://github-readme-stats.vercel.app/api/pin/?username=Code-the-Dream-School&repo=dd-prac-team4-front&theme=dark) |
+| 🧠 [Music App Backend](https://github.com/Code-the-Dream-School/dd-prac-team4-back) | ![Music App Back](https://github-readme-stats.vercel.app/api/pin/?username=Code-the-Dream-School&repo=dd-prac-team4-back&theme=dark) |
+
+---
 
 ### 🛠 Languages and Tools
 
@@ -47,6 +62,15 @@
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" title="Gulp"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" title="Babel"/> </p>
 🎨 Design
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/> </p>
+---
+### 📚 Learning Roadmap
+
+- ✅ **JavaScript (ES6+)** – Core concepts, async/await, closures
+- ✅ **React & Redux** – Component-based UI, state management
+- ✅ **REST APIs & CRUD** – Building and consuming APIs
+- ⏳ **Java** – Currently learning OOP, collections, Spring (in progress)
+- ⏳ **C** – Basics of memory management, pointers, syntax (in progress)
+
 ---
 
 ### 📊 GitHub Stats
