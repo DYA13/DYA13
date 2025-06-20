@@ -1,6 +1,7 @@
 ![logo](https://github.com/DYA13/DYA13/blob/main/ImageOne.webp)
 # 👩‍💻 Yelena Japarova
-### 💻 Web Developer from 🇮🇹 Italy
+<h3 align="center">👩‍💻 Yelena Japarova</h3>
+💡 Always learning, always building.
 
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pp1p0ibqd84jys6w5c15im3ecslu8bbz0jt7rmj6&rid=giphy.gif&ct=g">
