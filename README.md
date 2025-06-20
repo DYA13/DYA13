@@ -56,7 +56,9 @@ For more details about my education, certifications, and professional experience
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" style="margin: 0 10px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" style="margin: 0 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" title="Gulp" style="margin: 0 10px;" /> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" title="Babel" style="margin: 0 10px;" /> </p>
 🎨 Design
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" style="margin: 0 10px;" /> </p>
+
 ---
+
 ### 📚 Learning Roadmap
 
 - ✅ **JavaScript (ES6+)** – Core concepts, async/await, closures
@@ -76,7 +78,7 @@ For more details about my education, certifications, and professional experience
 
 ---
 
-## 🧠 Most Used Languages
+### 🧠 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYA13&layout=compact&theme=dark&hide_border=true" alt="DYA13 Most Used Languages" />
