@@ -2,15 +2,14 @@
 <h2 align="center">👩‍💻 Yelena Japarova</h2>
 
 💡 Always learning, always building.
-## 🛠 Tech Stack
 
-| Frontend        | Backend          | Tools & DB       |
-|-----------------|------------------|------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Gulp](https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <!-- и т.д. -->
+</p>
 
----
 
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pp1p0ibqd84jys6w5c15im3ecslu8bbz0jt7rmj6&rid=giphy.gif&ct=g">
