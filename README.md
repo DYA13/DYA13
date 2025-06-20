@@ -45,23 +45,17 @@ For more details about my education, certifications, and professional experience
 | 🚀 [Music Backend](https://github.com/Code-the-Dream-School/dd-prac-team4-back) | Node.js/Express REST API powering music data, authentication, and playlist logic |
 
 ---
-| Project | Preview |
-|--------|---------|
-| 🎧 [Music App Frontend](https://github.com/Code-the-Dream-School/dd-prac-team4-front) | ![Music App Front](https://github-readme-stats.vercel.app/api/pin/?username=Code-the-Dream-School&repo=dd-prac-team4-front&theme=dark) |
-| 🧠 [Music App Backend](https://github.com/Code-the-Dream-School/dd-prac-team4-back) | ![Music App Back](https://github-readme-stats.vercel.app/api/pin/?username=Code-the-Dream-School&repo=dd-prac-team4-back&theme=dark) |
-
----
 
 ### 🛠 Languages and Tools
 
 🌐 Frontend
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" title="Redux"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" title="Bootstrap"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" title="SASS"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" style="margin: 0 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" style="margin: 0 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" style="margin: 0 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React" style="margin: 0 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" title="Redux" style="margin: 0 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" title="Bootstrap" style="margin: 0 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" title="SASS" style="margin: 0 10px;" /> </p>
 🖥 Backend
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" title="Express.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" style="margin: 0 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" title="Express.js" style="margin: 0 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB" style="margin: 0 10px;" /> </p>
 🛠 Tools & Utilities
-<p align="center"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" title="Gulp"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" title="Babel"/> </p>
+<p align="center"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" style="margin: 0 10px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" style="margin: 0 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" title="Gulp" style="margin: 0 10px;" /> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" title="Babel" style="margin: 0 10px;" /> </p>
 🎨 Design
-<p align="center"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/> </p>
+<p align="center"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" style="margin: 0 10px;" /> </p>
 ---
 ### 📚 Learning Roadmap
 
@@ -82,16 +76,15 @@ For more details about my education, certifications, and professional experience
 
 ---
 
-### 📈 My Contribution Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dya13&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
----
-
 ## 🧠 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYA13&layout=compact&theme=dark&hide_border=true" alt="DYA13 Most Used Languages" />
 </p>
+
+### 📈 My Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dya13&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
