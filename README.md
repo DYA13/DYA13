@@ -64,7 +64,7 @@ For more details about my education, certifications, and professional experience
 - ✅ **JavaScript (ES6+)** – Core concepts, async/await, closures
 - ✅ **React & Redux** – Component-based UI, state management
 - ✅ **REST APIs & CRUD** – Building and consuming APIs
-- ⏳ **Java** – Currently learning OOP, collections, Spring (in progress)
+- ⏳ **Java** – Currently learning OOP, collections (in progress)
 - ⏳ **C** – Basics of memory management, pointers, syntax (in progress)
 
 ---
