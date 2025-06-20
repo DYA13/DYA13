@@ -14,9 +14,11 @@
 
 ### 🚀 About Me
 
-💡 Always learning, always building  
-🔭 Currently working on full-stack JavaScript projects  
-🎯 Code quality enthusiast  
+💡 Always learning — every day is a new opportunity to grow.
+🌍 I live in Italy and speak 🇷🇺 Russian, 🇮🇹 Italian, 🇬🇧 English.
+🔥 Never stop exploring, building, and becoming better than yesterday.
+🎯 I believe that consistency beats perfection — one line of code at a time.
+💫 Passionate about clean code, beautiful UIs, and solving real-world problems with tech. 
 
 ---
 
@@ -26,14 +28,14 @@
 
 ---
 
-### 🛠 Tech Stack Overview
+### 🧩 Featured Projects
 
-| Frontend       | Backend        | Tools & DevOps         | Design  |
-| -------------- | -------------- | ---------------------- | ------- |
-| ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg#gh-dark-mode-only) | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) |
-| ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) | ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | |
-| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) | ![Gulp](https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg) | |
+| 🧠 Project | 🌐 Description |
+|-----------|----------------|
+| ✨ [Music Frontend](https://github.com/Code-the-Dream-School/dd-prac-team4-front) | React-based interface for a music app with playlist browsing and player controls |
+| 🚀 [Music Backend](https://github.com/Code-the-Dream-School/dd-prac-team4-back) | Node.js/Express REST API powering music data, authentication, and playlist logic |
 
+---
 
 ### 🛠 Languages and Tools
 
@@ -47,13 +49,6 @@
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/> </p>
 ---
 
-### 🧩 Featured Projects
-
-| 🧠 Project | 🌐 Description |
-|-----------|----------------|
-| ✨ [Music Frontend](https://github.com/Code-the-Dream-School/dd-prac-team4-front) | React-based interface for a music app with playlist browsing and player controls |
-| 🚀 [Music Backend](https://github.com/Code-the-Dream-School/dd-prac-team4-back) | Node.js/Express REST API powering music data, authentication, and playlist logic |
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -63,11 +58,10 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 📈 My Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DYA13&theme=dark&hide_border=true" alt="DYA13 GitHub Streak" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dya13&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
